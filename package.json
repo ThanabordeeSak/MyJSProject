@@ -1,7 +1,7 @@
 {
   "name": "myjsproject",
   "version": "1.0.0",
-  "description": "",
+  "description": "myjsproject",
   "main": "index.js",
   "scripts": {
     "test": "jest"
